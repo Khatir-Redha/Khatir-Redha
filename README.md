@@ -206,19 +206,21 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">❤️ Anime</h3>
+### 🇳🇱 Learning Dutch
 
-<img src="generated/metrics.anilist.svg" width="100%">
+<img src="https://media.giphy.com/media/buvA4PKyYdzv899UkV/giphy.gif" width="220">
+
+Learning Dutch every day with Duolingo.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🇳🇱 Dutch Journey</h3>
+### ❤️ Anime
 
-<img src="duolingo.svg" width="100%">
+<img src="generated/metrics.anilist.svg" width="100%">
 
 </td>
 
@@ -232,9 +234,9 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 <tr>
 
-<td width="160">
+<td width="170" align="center">
 
-<img src="https://learning.oreilly.com/library/cover/9781098125967/250w/" width="140">
+<img src="https://learning.oreilly.com/library/cover/9781098125967/250w/" width="150">
 
 </td>
 
@@ -244,7 +246,7 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Edition)**
 
-Applying concepts directly through Kaggle competitions and my Waste-Trade project.
+Applying the concepts through Kaggle competitions and the Waste-Trade recommendation engine.
 
 </td>
 
@@ -254,12 +256,37 @@ Applying concepts directly through Kaggle competitions and my Waste-Trade projec
 
 <br>
 
-- 🎮 League of Legends
-- ☕ Coffee
-- 🎧 Lo-fi & Synthwave
-- 💻 Building side projects
+<table>
 
+<tr>
+
+<td width="50%" align="center">
+
+### 🎧 Coding Vibes
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R3dGl0Y3FiOWY1anE1OTNibWViZHh5c2c1YWVtaXMyeWxlZHJpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dvreHY4p06lzVSDrvj/giphy.gif" width="280">
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌙 Late Night Sessions
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R3dGl0Y3FiOWY1anE1OTNibWViZHh5c2c1YWVtaXMyeWxlZHJpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CW16nFVXLSQxSMUEMd/giphy.gif" width="280">
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+🎮 League of Legends • ☕ Coffee • 🎧 Lo-fi • 📖 Learning in Public
 ---
+</p>
 
 ## 🤝 Let's Connect
 

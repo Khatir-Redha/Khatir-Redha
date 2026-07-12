@@ -54,13 +54,13 @@ jobs:
       #                           (e.g. sponsor data) if applicable.
       # ─────────────────────────────────────────────
       - name: Generate Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: generated/metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # base: "" means no header or extra sections —
           # just the achievements plugin output, nothing else.
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          #plugin_achievements_display: compact
+          #plugin_achievements_threshold: X
