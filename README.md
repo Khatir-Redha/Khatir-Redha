@@ -47,16 +47,23 @@ Currently focusing my energy on **Waste-Trade**, bridging the gap between scalab
 
 ## 📊 GitHub Analytics
 
-<!-- Metrics SVG will be injected here automatically by GitHub Actions -->
+<p align="center">
+  <img src="generated/metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 ## 🌍 Open Source Activity
 
-<!-- Snake and Skyline SVGs will be injected here automatically by GitHub Actions -->
-<!-- Example injection:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="generated/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="generated/snake.svg">
+    <img alt="Contribution Snake" src="generated/snake.svg" width="100%">
+  </picture>
+</p>
+
 <p align="center">
   <img src="generated/skyline.svg" alt="3D Contribution Skyline" width="100%">
 </p>
--->
 
 ## ☕ Beyond Code
 
