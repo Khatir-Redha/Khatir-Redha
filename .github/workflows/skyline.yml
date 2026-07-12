@@ -1,4 +1,4 @@
-name: Generate 3D Skyline
+name: Generate Contribution Calendar
 
 on:
   schedule:
@@ -16,21 +16,19 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          
-      - name: Move to generated folder
-        run: |
-          mkdir -p generated
-          cp profile-3d-contrib/profile-night-view.svg generated/skyline.svg || true
-          
+        uses: actions/checkout@v4
+
+      - name: Generate full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update 3D skyline graph"
+          commit_message: "chore: update contribution calendar"
           file_pattern: "generated/*"
