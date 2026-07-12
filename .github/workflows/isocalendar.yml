@@ -50,4 +50,4 @@ jobs:
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 0
-          plugin_anilist_user: .user.login
+          plugin_anilist_user: KhatirRedha

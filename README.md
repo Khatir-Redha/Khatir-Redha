@@ -2,7 +2,8 @@
 
 **Computer Science Student • Full-Stack Developer • Machine Learning Enthusiast**
 
-I build software that solves real-world problems with modern web technologies while expanding into Machine Learning and AI. Currently building **Waste-Trade** and documenting my learning journey through projects and Kaggle competitions.
+I'm a CS student from Algeria building full-stack software and gradually moving into machine learning.
+Right now I'm focused on **Waste-Trade** and working through the ML fundamentals one concept at a time.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Building+Waste-Trade...;Competing+on+Kaggle...;Learning+in+Public...)](https://git.io/typing-svg)
 
@@ -14,43 +15,58 @@ I build software that solves real-world problems with modern web technologies wh
 
 ## 🚀 Current Focus
 
-Currently investing most of my time in **Waste-Trade**, at the intersection of scalable full-stack architecture and machine learning.
-
-- 🏗️ **Building**: Waste-Trade — AI-powered waste exchange platform
-- 🧠 **Current Topic**: Feature Engineering & Model Evaluation
-- 🎯 **Next Milestone**: Deploy production ML models end-to-end
+- 🏗️ **Building**: Waste-Trade — a platform for waste exchange powered by ML recommendations
+- 🧠 **Studying**: Feature Engineering & Model Evaluation
+- 🎯 **Goal**: Ship a production ML model end-to-end before the end of the year
 
 ---
 
-## 📦 Featured Projects
+## 📦 Projects
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[♻️ Waste-Trade](#)** | AI-powered platform for buying, selling, and recycling waste through intelligent recommendations. | React Native · Next.js · Express · PostgreSQL | 🚧 Building |
-| **[🎙️ AI Teacher](#)** | Voice-first learning platform powered by conversational AI. | Web · AI Integrations | 🚧 Building |
-| **[🎓 ConcoursDoctor](#)** | End-to-end platform for managing doctoral competition applications and evaluations. | Full-Stack Web | ✅ Completed |
+| **[♻️ Waste-Trade](#)** | A marketplace for buying, selling, and recycling waste, with ML-powered recommendations. | React Native · Next.js · Express · PostgreSQL | 🚧 Building |
+| **[🎙️ AI Teacher](#)** | A voice-based learning assistant built around conversational AI. | Web · AI APIs | 🚧 Building |
+| **[🎓 ConcoursDoctor](#)** | A platform for managing doctoral competition applications and committee workflows. | Full-Stack Web | ✅ Completed |
 
 ---
 
-## 🧠 Learning Journey
+## 🧠 ML Journey & Achievements
 
-*Learning in public through Kaggle competitions and project-based experimentation.*
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-**Completed**
+**What I'm learning**
+
+*Documenting progress through code, Kaggle notebooks, and projects.*
+
+**Done**
 - ✅ Python, NumPy, Pandas, Scikit-Learn
 - ✅ Decision Trees & Random Forests
 - ✅ XGBoost Fundamentals
 
-**Current**
+**In progress**
 - 🔄 Feature Engineering & Model Evaluation
 
-**Next**
+**Up next**
 - 🎯 MLOps & Deep Learning
 
-## 🏆 Competitions & Hackathons
+    </td>
+    <td width="50%" valign="top">
+
+**Evidence of activity**
+
+<img src="generated/metrics.achievements.svg" alt="GitHub Achievements" width="100%">
+
+    </td>
+  </tr>
+</table>
+
+## 🏆 Competitions
 
 - **Algeria 2.0 Hackathon**
-- **Yassir AI Challenge** (Recommendation System)
+- **Yassir AI Challenge** — built a recommendation system
 
 ---
 
@@ -73,8 +89,6 @@ Currently investing most of my time in **Waste-Trade**, at the intersection of s
   </tr>
 </table>
 
-**Contribution Snake**
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="generated/snake-dark.svg">
@@ -87,17 +101,13 @@ Currently investing most of my time in **Waste-Trade**, at the intersection of s
 
 ## ☕ Beyond Code
 
-**📺 Anime**
-
 <p align="center">
-  <img src="generated/metrics.anilist.svg" alt="AniList Anime Activity" width="100%">
+  <img src="generated/metrics.anilist.svg" alt="Anime — powered by AniList" width="100%">
 </p>
 
-**Off-screen**
-
-- 🎮 You'll usually find me playing League of Legends.
-- 📚 Reading *Hands-On Machine Learning*.
-- 🎧 Coding to Lo-fi and Synthwave playlists.
+- 🎮 League of Legends when I need a break.
+- 📚 Currently reading *Hands-On Machine Learning*.
+- 🎧 Lo-fi and Synthwave while I work.
 
 ---
 
