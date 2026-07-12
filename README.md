@@ -277,7 +277,7 @@ Applying the concepts through Kaggle competitions and the Waste-Trade recommenda
 
 ### 🌙 Late Night Sessions
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlsMDRpaHRsZ3FqeWh2OThjbjZzODE3Z3dvcmhzaXp4b2NtdDM0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CW16nFVXLSQxSMUEMd/giphy.gif" width="280">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2JqZWZoa3Q2eXBtN3hlZXdvNWtqNzVuNnN3b3cwM3pvbWFuOWU3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUyyGUtzniOpYB6sA5/giphy.gif" width="280">
 
 </td>
 
