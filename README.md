@@ -60,21 +60,18 @@ Currently investing most of my time in **Waste-Trade**, at the intersection of s
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Contribution Calendar
 
-<p align="center">
-  <img src="generated/metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
-
----
-
-## 🌍 Open Source Activity
-
-**Contribution Calendar**
-
-<p align="center">
-  <img src="generated/metrics.isocalendar.fullyear.svg" alt="Full-Year Isometric Contribution Calendar" width="100%">
-</p>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <img src="generated/metrics.svg" alt="GitHub Metrics" width="100%">
+    </td>
+    <td width="45%" valign="top">
+      <img src="generated/metrics.isocalendar.fullyear.svg" alt="Full-Year Isometric Contribution Calendar" width="100%">
+    </td>
+  </tr>
+</table>
 
 **Contribution Snake**
 
