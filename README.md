@@ -9,10 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Khatir-Redha"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/khatir-redha-a1b5a7338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://redha-khatir.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:r.khatir@esi-sba.dz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Khatir-Redha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <p align="center">
@@ -31,6 +39,46 @@ Currently building <strong>Waste-Trade</strong>, competing on Kaggle, and learni
 - 🧠 Learning **Feature Engineering & Model Evaluation**
 - 📊 Competing on Kaggle
 - 🎯 Goal: Deploy my first production ML pipeline
+
+---
+
+# 📈 Engineering Activity
+
+<table>
+
+<tr>
+
+<td width="55%">
+
+<img src="generated/metrics.svg" width="100%">
+
+</td>
+
+<td width="45%">
+
+<img src="generated/metrics.isocalendar.fullyear.svg" width="100%">
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="generated/snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="generated/snake.svg">
+
+<img src="generated/snake.svg" width="100%">
+
+</picture>
+
+</p>
 
 ---
 
@@ -165,45 +213,6 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 ---
 
-# 📈 Engineering Activity
-
-<table>
-
-<tr>
-
-<td width="55%">
-
-<img src="generated/metrics.svg" width="100%">
-
-</td>
-
-<td width="45%">
-
-<img src="generated/metrics.isocalendar.fullyear.svg" width="100%">
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="generated/snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="generated/snake.svg">
-
-<img src="generated/snake.svg" width="100%">
-
-</picture>
-
-</p>
-
----
 
 # ☕ Beyond Code
 
@@ -296,13 +305,13 @@ Applying the concepts through Kaggle competitions and the Waste-Trade recommenda
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/khatir-redha-a1b5a7338/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://redha-khatir.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:r.khatir@esi-sba.dz">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Khatir-Redha">
