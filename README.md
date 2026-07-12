@@ -113,9 +113,14 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 <td width="50%" valign="top">
 
-### GitHub Achievements
+### 🏆 GitHub Trophies
 
-<img src="generated/metrics.achievements.svg" width="100%">
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Khatir-Redha&theme=github_dark&no-frame=true&no-bg=true&row=2&column=3&margin-w=12&margin-h=12"
+    width="100%"
+  />
+</p>
 
 </td>
 
@@ -272,7 +277,7 @@ Applying the concepts through Kaggle competitions and the Waste-Trade recommenda
 
 ### 🌙 Late Night Sessions
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R3dGl0Y3FiOWY1anE1OTNibWViZHh5c2c1YWVtaXMyeWxlZHJpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CW16nFVXLSQxSMUEMd/giphy.gif" width="280">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlsMDRpaHRsZ3FqeWh2OThjbjZzODE3Z3dvcmhzaXp4b2NtdDM0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CW16nFVXLSQxSMUEMd/giphy.gif" width="280">
 
 </td>
 
