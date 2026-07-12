@@ -1,0 +1,28 @@
+name: Generate Duolingo Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  duolingo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Duolingo Stats
+        uses: centrumek/duolingo-readme-stats@latest
+        with:
+          DUOLINGO_USERNAME: REDHAKH
+          GITHUB_USERNAME: Khatir-Redha
+
+      - name: Commit generated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update duolingo stats"
