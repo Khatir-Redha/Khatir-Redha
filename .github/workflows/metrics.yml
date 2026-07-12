@@ -57,7 +57,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: generated/metrics.achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # base: "" means no header or extra sections —
           # just the achievements plugin output, nothing else.
           base: ""

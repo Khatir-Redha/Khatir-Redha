@@ -1,15 +1,35 @@
-# Hi, I'm Ridha 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Ridha%20Khatir&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&stroke=FFFFFF&strokeWidth=0&desc=Computer%20Science%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Learner&descSize=22&descAlignY=58" alt="Ridha Khatir" width="100%">
+</p>
 
-**Computer Science Student • Full-Stack Developer • Machine Learning Enthusiast**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Waste-Trade...;Competing+on+Kaggle...;Learning+in+Public..." alt="Typing SVG">
+  </a>
+</p>
 
-I'm a CS student from Algeria building full-stack software and gradually moving into machine learning.
-Right now I'm focused on **Waste-Trade** and working through the ML fundamentals one concept at a time.
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Khatir-Redha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Building+Waste-Trade...;Competing+on+Kaggle...;Learning+in+Public...)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=flat-square&logo=vercel&logoColor=white)](#)
+<p align="center">
+  CS student from Algeria building full-stack software and moving into machine learning.<br>
+  Currently focused on <strong>Waste-Trade</strong> — working through ML fundamentals one concept at a time.
+</p>
 
 ---
 
