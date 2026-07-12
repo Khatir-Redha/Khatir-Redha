@@ -1,0 +1,53 @@
+name: Generate Isometric Calendar
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Half-year isometric calendar
+      - name: Half-year Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/metrics.isocalendar.svg
+          # Use METRICS_TOKEN (classic PAT) for full plugin support.
+          # Falls back gracefully to GITHUB_TOKEN if METRICS_TOKEN is not set.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+
+      # Full-year isometric calendar
+      - name: Full-year Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/metrics.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # AniList: recently watched anime (requires METRICS_TOKEN)
+      - name: AniList — Anime Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/metrics.anilist.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 0
+          plugin_anilist_user: .user.login
