@@ -161,11 +161,11 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 <td width="50%" valign="top">
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Khatir-Redha&theme=github_dark&no-frame=true&no-bg=true&row=2&column=3&margin-w=12&margin-h=12"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Khatir-Redha&theme=github-dark&hide_border=true"
     width="100%"
   />
 </p>
