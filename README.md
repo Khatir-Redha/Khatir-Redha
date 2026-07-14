@@ -180,7 +180,7 @@ Documenting my progress through Kaggle competitions and personal projects.
 # 🏆 Competitions
 
 - 🥈 Algeria 2.0 Hackathon
-- 🤖 Yassir AI Challenge
+- 🤖 Yassir AI Challenge Datathon
 - 📊 Kaggle Competitions
 
 ---
@@ -260,7 +260,7 @@ Learning Dutch every day with Duolingo.
 
 **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Edition)**
 
-Applying the concepts through Kaggle competitions and the Waste-Trade recommendation engine.
+Applying the concepts through Kaggle competitions and recommendation engine.
 
 </td>
 
