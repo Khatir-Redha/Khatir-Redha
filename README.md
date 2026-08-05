@@ -222,11 +222,11 @@ Documenting my progress through Kaggle competitions and personal projects.
 
 <td width="50%" align="center">
 
-### 🇳🇱 Learning Dutch
+### 🇩🇪 Learning German
 
 <img src="https://media.giphy.com/media/buvA4PKyYdzv899UkV/giphy.gif" width="220">
 
-Learning Dutch every day with Duolingo.
+Learning German every day with Duolingo.
 
 </td>
 
