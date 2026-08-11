@@ -145,17 +145,21 @@ Documenting my progress through Kaggle competitions and personal projects.
 - Scikit-Learn
 - Decision Trees
 - Random Forests
+- KNN
+- SVM
+- PCA
 - XGBoost Fundamentals
+- Feature Engineering
+- Model Evaluation
 
 #### 🔄 Learning
 
-- Feature Engineering
-- Model Evaluation
+- Deep Learning
 
 #### 🎯 Next
 
 - MLOps
-- Deep Learning
+
 
 </td>
 
