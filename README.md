@@ -133,33 +133,13 @@ Platform for managing doctoral competition applications and committee workflows.
 
 <td width="50%" valign="top">
 
-### Current Learning
+Building practical ML skills through projects and competitions, currently focused on deep learning and computer vision.
 
-Documenting my progress through Kaggle competitions and personal projects.
+**Completed:** Classical ML · Feature Engineering · Model Evaluation · Hyperparameter Tuning
 
-#### ✅ Completed
+**Exploring:** PyTorch · CNNs · Transfer Learning · YOLO
 
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
-- Decision Trees
-- Random Forests
-- KNN
-- SVM
-- PCA
-- XGBoost Fundamentals
-- Feature Engineering
-- Model Evaluation
-
-#### 🔄 Learning
-
-- Deep Learning
-
-#### 🎯 Next
-
-- MLOps
-
+**Next:** Image Segmentation · MLOps
 
 </td>
 
